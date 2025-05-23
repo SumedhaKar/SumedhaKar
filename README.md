@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sumedha Kar!
 
 🎓 **B.Tech in Information Technology**  
-Kalinga Institute of Industrial Technology, Bhubaneswar  
-2023-2027 | CGPA: 8.52
+MCKV Institute of Engineering , Liluah 
+2023-2027 | CGPA: 9.52
 
 🌟 **About Me**  
-Aspiring technologist and cybersecurity enthusiast with a passion for building impactful solutions using AI, web development, and secure systems. I thrive in collaborative environments and love to solve real-world problems through code and research.
+Aspiring technologist and Bigdata enthusiast with a passion for building impactful solutions using AI, web development, and secure systems. I thrive in collaborative environments and love to solve real-world problems through code and research.
 
 ---
 
@@ -102,7 +102,7 @@ Technical Presentation | Independent Learning | Agile Adaptability | Event Leade
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sumedha-kar-870235280/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/SumedhaKar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdey30525@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumedhakar07@gmail.com)
 
 ---
 
