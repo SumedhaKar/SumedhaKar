@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumedha Kar!
 
-🎓 **B.Tech in Information Technology**  
+🎓 **B.Tech in Compter Science Engineering**  
 MCKV Institute of Engineering , Liluah 
 2023-2027 | CGPA: 9.52
 
