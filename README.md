@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Compter Science Engineering**  
 MCKV Institute of Engineering , Liluah 
-2023-2027 | CGPA: 9.52
+2023-2027 | CGPA: 9.5
 
 🌟 **About Me**  
 Backend and full-stack developer focused on building AI-powered products end to end. I work mainly with Python (FastAPI, Django) and TypeScript (Next.js, Node.js) on top of PostgreSQL and Firebase, and integrate LLMs like Gemini into real applications, from recommendation engines to conversational systems. My background in security and CTFs shapes how I design reliable, secure systems. I thrive in collaborative environments and love to solve real-world problems through code and research.
