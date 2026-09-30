@@ -5,11 +5,24 @@ MCKV Institute of Engineering , Liluah
 2023-2027 | CGPA: 9.52
 
 🌟 **About Me**  
-Aspiring technologist and Bigdata enthusiast with a passion for building impactful solutions using AI, web development, and secure systems. I thrive in collaborative environments and love to solve real-world problems through code and research.
+Backend and full-stack developer focused on building AI-powered products end to end. I work mainly with Python (FastAPI, Django) and TypeScript (Next.js, Node.js) on top of PostgreSQL and Firebase, and integrate LLMs like Gemini into real applications, from recommendation engines to conversational systems. My background in security and CTFs shapes how I design reliable, secure systems. I thrive in collaborative environments and love to solve real-world problems through code and research.
 
 ---
 
 ## 🚀 Projects
+
+### PathFinder
+AI-Powered Personalized Learning Path Recommender. Full-stack app that converts a learner's stated goal into a sequenced, prerequisite-aware roadmap.
+- Built and deployed with a Next.js frontend on Vercel and a FastAPI backend on Render, backed by Supabase (PostgreSQL).
+- Gemini API-based recommendation engine using structured extraction and embeddings to generate personalized paths across 112 courses spanning 17 domains.
+- Rule-based fallback logic keeps requests completing when the Gemini API fails or rate-limits.
+- **Tech:** Next.js, FastAPI, Python, TypeScript, Supabase (PostgreSQL), Google Gemini API
+
+### InsightFlow
+Mobile-First AI Data Analysis Tool. Flutter app for visualizing and analyzing user-uploaded datasets.
+- Users upload CSV/Excel files and receive AI-generated insights instantly via the Gemini API.
+- Firebase backend (Firestore, Auth, Storage) with anomaly detection and interactive visualizations for 200+ small business users.
+- **Tech:** Flutter, Dart, Firebase, Firebase Auth, Firebase Storage, Gemini Pro
 
 ### Asistencia
 A facial recognition-based smart attendance system for organizations.  
@@ -27,42 +40,33 @@ Real-time web app that detects and blocks malicious URLs.
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-</p>
 
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/> 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/> </p>
 ---
 
 ## 🏆 GitHub Stats & Awards
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumedhaKar&show_icons=true&theme=radical" alt="Sumedha's GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumedhaKar&theme=radical" alt="Sumedha's GitHub streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhaKar&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
 
-- 🏅 **LeetCode:** 250+ problems solved (Max Rating: 1655)
-- 🥈 **Pentathon 2024 CTF:** Top 2% teams nationwide
-- 🥉 **IIT Kanpur CTF (June 2024):** Top 50 teams
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SumedhaKar&show_icons=true&theme=radical" alt="Sumedha's GitHub stats" height="150"/> <img src="https://streak-stats.demolab.com/?user=SumedhaKar&theme=radical" alt="Sumedha's GitHub streak" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhaKar&layout=compact&theme=radical" alt="Top Languages" height="150"/> </p>
+
+- 🏅 LeetCode: 250+ problems solved (Max Rating: 1655)
+- 🥈 Pentathon 2024 CTF: Top 2% teams nationwide
+- 🥉 IIT Kanpur CTF (June 2024): Top 50 teams
+- 🤖 HCLTech AI Amplified Challenge 2026: Selected for the national AI-focused hackathon by HCL Technologies
+- 🎖️ IET Scholarship: Selected for the Regional Round
 
 **Certifications:**  
 [![Google Cloud Cybersecurity Expert](https://img.shields.io/badge/Google%20Cloud%20Cybersecurity%20Expert-4285F4?logo=googlecloud&logoColor=white&style=flat-square)]()  
@@ -83,19 +87,17 @@ Real-time web app that detects and blocks malicious URLs.
 ---
 
 ## 🌱 Experience
+- **AI Intern – Infosys Springboard Virtual Internship (Jul 2025 – Oct 2025):**
+   Selected after completing the prerequisite courses; built and deployed a Conversational IVR Modernization Framework with a mentor-led team.   Integrated AI-based NLP for multilingual (4-language) voice and text interactions, and developed a Node.js middleware with intent detection, chat history, and ACS/BAP services, with a web-based UI for real-time conversations.
 
-- **AICTE & Shell Virtual Internship (Edunet Foundation):**  
-  Synthesized AI-driven strategies to improve energy grid efficiency by 15% and earned certification in sustainable technology practices.
-
-- **Fortinet Virtual Internship (AICTE-Eduskills):**  
-  Automated network vulnerability scanning with Python, improving manual testing efficiency and system uptime.
+- **Team Lead & Project Manager – Mission Helping Hands (Jun 2025 – Present):**
+Leading a team of 18 members across 3 concurrent initiatives; conducting research and risk analysis for project planning, and preparing weekly status reports and stakeholder presentations.
 
 ---
 
 ## 🧑‍💼 Soft Skills
 
-Technical Presentation | Independent Learning | Agile Adaptability | Event Leadership
-
+Technical Presentation | Independent Learning | Agile Adaptability | Event Leadership | Team Leadership | Project Management
 ---
 
 ## 📫 Connect with Me
